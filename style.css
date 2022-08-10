@@ -1,0 +1,38 @@
+
+button:hover {
+    background-color: gray;
+    color: rgb(130, 180, 130);
+}
+
+h1 {
+    font-size: 35px;
+    color: black;
+    
+    
+}
+h2 {
+    font-size: 35px;
+    color: black;
+    
+   
+}
+
+/* .container {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 100px;
+}  */
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
